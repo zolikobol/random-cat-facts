@@ -6,7 +6,7 @@
     "firebase": "^4.6.2",
     "firebase-admin": "~5.4.0",
     "firebase-functions": "^0.7.3",
-    "request": "^2.83.0"
+    "https": "^1.0.0"
   },
   "private": true
 }
